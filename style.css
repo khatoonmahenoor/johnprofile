@@ -1,0 +1,75 @@
+body{
+    border: 2px solid black;
+    height: 100%;
+    padding: 5px;
+  }
+ .avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+
+  .github-link {
+    color: #000;
+    padding-left: 5px;
+  }
+
+  .pagination {
+    justify-content: center;
+    margin-top: 25px;
+  }
+
+  .location {
+    color: #000;
+  }
+
+  .firstdiv,
+  .seconddiv {
+    border: 2px solid #1e0202;
+    padding: 15px;
+    margin: 10px;
+    color: blue;
+    margin-bottom: 20px;
+  }
+
+  .container p {
+    color: black;
+  }
+
+  .container button {
+    background-color: rgb(0, 149, 255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+  }
+
+  .profile {
+    float: right;
+    padding-right: 500px; 
+    padding-top: 25px;
+  }
+
+  .roundbutton {
+  margin-top: 8px;
+  text-align: center;
+}
+
+.roundbutton button {
+  border-radius: 13px;
+  font-size: 15px;
+  color: rgba(75, 75, 190, 0.527);
+  padding: 5px 10px;
+  background-color: white;
+}
+
+#older {
+  margin-right: 90px;
+}
+
+#newer {
+  margin-left: 90px;
+}
