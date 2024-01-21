@@ -24,9 +24,6 @@ Clone the repository:
 
 2. Open the index.html file in your web browser.
 
-Customize
-Feel free to customize the content and styling according to your preferences. You can change the profile information, image, and add/remove sections as needed.
-
 Profile Section
 Modify the content within the <div class="profile"> element to update John Doe's information.
 
